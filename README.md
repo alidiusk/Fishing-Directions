@@ -47,12 +47,12 @@ Maintain caution while casting: you could stab someone with the sharp hook.**
 * Carefully move the rod behind your head, then flick it forward
 * Wait a few moments then shut the bail closed to stop letting out line
 
-### 4. Wait for a bit
+### 4. Wait for a bite
 * Wait for a fish to bite on your hook
 
 **NOTE**: This may take anywhere from a few minutes to a half an hour.
-If you do not have any fish bite for longer than that time span,
-consider relocating to a different part of the body of water or recast.
+If no fish bite during that time span,
+consider relocating to a different part of the body of water or [recasting](#3.-cast-the-hook).
 
 ### 5. Hook the fish
 * Once you feel a firm tension coming from your hook, **jerk up quickly**

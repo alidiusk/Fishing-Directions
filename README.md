@@ -52,13 +52,13 @@ Maintain caution while casting: you could stab someone with the sharp hook.**
 
 **NOTE**: This may take anywhere from a few minutes to a half an hour.
 If no fish bite during that time span,
-consider relocating to a different part of the body of water or [recasting](#3.-cast-the-hook).
+consider relocating to a different part of the body of water or [recasting](#3-cast-the-hook).
 
 ### 5. Hook the fish
 * Once you feel a firm tension coming from your hook, **jerk up quickly**
 * If the tension dissipates, you failed to hook the fish.
-    * If you have bait, continue from [Step 3](#3.-cast-the-hook).
-    * Otherwise, continue from [Step 2](#2.-apply-the-bait).
+    * If you have bait, continue from [Step 3](#3-cast-the-hook).
+    * Otherwise, continue from [Step 2](#2-apply-the-bait).
 * If the tension remains, continue to Step 6.
 
 ### 6. Reel in the fish
@@ -83,4 +83,4 @@ You will then have to install a new hook.
 ### 9. Release the fish
 * Hold the fish gently by the gill and place it gently into the water.
 * Let go of the fish and watch it swim away.
-* If you are done fishing, then clean up and head home. Otherwise, if you have bait, continue from [Step 3](#3.-cast-the-hook). If you do not, continue from [Step 2](#2.-apply-the-bait).
+* If you are done fishing, then clean up and head home. Otherwise, if you have bait, continue from [Step 3](#3-cast-the-hook). If you do not, continue from [Step 2](#2-apply-the-bait).

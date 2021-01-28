@@ -5,7 +5,16 @@ Fishing is a classic American pastime.
 When done correctly, fishing can be a fun and relaxing activity.
 Sit back and enjoy the sanctitude of nature as you learn how to fish with the steps below.
 
-No prior experience is required.
+## Theory
+The goal of fishing is to safely catch and release fish while enjoying the peaceful natural environment.
+
+## Warning
+**Sharp fishing hooks can cause minor injuries or severe damage to eyes.**
+
+## Requirements
+The following weather conditions are required:
+* Sunny or cloudy weather
+* A comfortable temperature
 
 The following materials are required:
 * A spinning-variety fishing rod prepared already with a string, hook, and weight
@@ -13,15 +22,6 @@ The following materials are required:
 * A fishing net
 * Needle-nose pliers
 * A container of live worms
-
-## Theory
-The goal of fishing is to safely catch and release fish while enjoying the peaceful natural environment.
-
-## Warning
-**Sharp fishing hooks can cause minor injuries or severe damage to eyes.**
-
-## Conditions Required
-Fishing is best enjoyed during sunny or cloudy weather at a comfortable temperature.
 
 ## Steps
 
